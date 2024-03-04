@@ -1,0 +1,29 @@
+Ejercicio: Lista de Compras
+
+Crea una aplicación de lista de compras utilizando HTML, CSS y JavaScript. La 
+aplicación debe permitir al usuario:
+• Agregar artículos a la lista.                ✔
+• Eliminar artículos de la lista.              ✔
+• Marcar artículos como comprados.             ✔ Dandole click al elemento lo marcamos como comprado o hecho
+Requisitos:
+HTML: Estructura básica de la aplicación con un formulario para agregar elementos y
+una lista para mostrar los artículos.
+CSS: Estiliza la aplicación para que sea simple y fácil de usar.
+JavaScript:
+• Utiliza un array para almacenar los elementos de la lista.
+• Implementa funciones para agregar, eliminar y marcar como comprados los
+artículos.
+Agrega botones o elementos para realizar estas acciones.
+Funcionalidades adicionales (opcional):
+• Botón para limpiar la lista.         ✔
+• Contador de elementos en la lista.   ✔
+• Diseño responsivo.                   ✔
+Puntos a tener en cuenta:
+• Prioriza la simplicidad y rapidez en la implementación.
+• Organiza el código de manera clara y sigue buenas prácticas.
+• Asegúrate de que la lista sea fácil de entender y usar.
+• Este ejercicio debería ser más rápido de completar, pero aún así proporciona
+la oportunidad de evaluar habilidades en manipulación del DOM, gestión de
+eventos y estructuración del código.
+Entrega:
+Enviar la url repositorio del codigo fuente en github.com a neysi@simple.pe
