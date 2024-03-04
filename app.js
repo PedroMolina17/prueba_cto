@@ -22,6 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
   clearListButton.addEventListener("click", function () {
     clearList();
+    updateItemCount();
   });
 
   function addItem(item) {
@@ -35,12 +36,14 @@ document.addEventListener("DOMContentLoaded", function () {
     items.length = 0;
     renderList();
     saveToLocalStorage();
+    updateItemCount();
   }
 
   function removeItem(index) {
     items.splice(index, 1);
     renderList();
     saveToLocalStorage();
+    updateItemCount();
   }
 
   function toggleItem(index) {
